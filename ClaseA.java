@@ -6,4 +6,8 @@ public class ClaseA{
    x=0;
    y=0;
   }
+  
+  public void mensaje(){
+    System.out.println("hola!");
+  }
 } 
